@@ -1,0 +1,14 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = central plaza virtual tour sample 
+
+## Media
+
+### Title
+panorama_B27FE4D6_BB85_3C47_41AC_35BAAB7D72F6.label = dining area 
+panorama_B429A536_BBE2_4001_41D7_31E77969F09B.label = living area
